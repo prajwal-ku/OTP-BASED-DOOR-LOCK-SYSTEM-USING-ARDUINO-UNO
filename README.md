@@ -18,9 +18,10 @@ mechanisms for securing access to restricted areas.
 Key components:
 GSM 900A
 ARDUINO UNO
-RELAY
+RELAY MODULE
 SOLENOID LOCK
-KEYPAD MATRIX
-LCD DISPLAY
+KEYPAD MATRIX 4*4
+SIM CARD WITH SLOT
+LCD DISPLAY WITH I2C
 IR SENSOR
 Jumper wires (As per requirement)
